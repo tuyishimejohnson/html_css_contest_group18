@@ -4,10 +4,12 @@
     box-sizing: border-box;
 }
 .formulating-title {
-    background-color: rgba(65, 141, 65, 0.701);
+    background-color: rgba(65, 104, 141, 0.701);
     text-align: center;
-    color: rgb(96, 69, 69);
+    color: rgb(61, 36, 40);
     font-family: 'Lucida Sans Regular';
+    padding-top: 26px;
+    padding-bottom: 26px;
 }
 .editing {
     color: #acac7c;
