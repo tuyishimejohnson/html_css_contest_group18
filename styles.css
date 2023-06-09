@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.first{
+    width: 50%;
+    height: 450px;
+    
+
+}
+
+.first-img {
+    width: 100%;
+    height: auto;
+}
+
+
+.aligning {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.title {
+    color: white;
+    font-family: "courier New";
+    text-align: center;
+
+}
+
+.paragraph-1 h3{
+    color: white;
+    font-family: "courier New";
+}
+
+.paragraph-1 p {
+    color: white;
+    font-family: 'courier New';
+}
+.paragraph-2 h3 {
+    color: white;
+    font-family: "courier New";
+}
+.paragraph-2 p {
+    color: white;
+    font-family: "courier New";
+}
+.paragraph-3 h3 {
+    color: white;
+    font-family: "courier New";
+}
+.paragraph-3 p {
+    color: white;
+    font-family: "courier New";
+} 
