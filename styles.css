@@ -8,6 +8,7 @@
     color: #acac7c;
     padding-top: 20px;
     margin-left: 80px;
+    font-family: 'Lucida Sans Regular';
 
 
 }
@@ -32,8 +33,9 @@
 
 .title {
     color: white;
-    font-family: "courier New";
+    font-family: 'Lucida Sans Regular';
     text-align: center;
+    font-weight: 300px;
 
 
 }
