@@ -4,13 +4,16 @@
     box-sizing: border-box;
 }
 
+.editing {
+    color: #acac7c;
+    padding-top: 20px;
+    margin-left: 80px;
 
 
+}
 .first{
     width: 50%;
     height: 450px;
-    
-
 }
 
 .first-img {
@@ -31,30 +34,45 @@
     font-family: "courier New";
     text-align: center;
 
+
 }
 
 .paragraph-1 h3{
     color: white;
     font-family: "courier New";
+    padding-top: 25px;
+    
 }
 
 .paragraph-1 p {
-    color: white;
+    font-size: 12px;
+    color: rgb(184, 170, 170);
     font-family: 'courier New';
+    padding-bottom: 19px;
+    
 }
 .paragraph-2 h3 {
     color: white;
     font-family: "courier New";
 }
 .paragraph-2 p {
-    color: white;
+    color: rgb(184, 170, 170);
     font-family: "courier New";
+    font-size: 12px;
+    padding-bottom: 24px;
 }
 .paragraph-3 h3 {
     color: white;
     font-family: "courier New";
 }
 .paragraph-3 p {
-    color: white;
+    color: rgb(184, 170, 170);
     font-family: "courier New";
+    font-size: 12px;
+    
 } 
+
+.joining {
+    margin-left: 40px;
+
+}
