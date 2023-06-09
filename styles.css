@@ -19,6 +19,7 @@
 .first-img {
     width: 100%;
     height: auto;
+    padding-bottom: 50px;
 }
 
 
@@ -39,35 +40,38 @@
 
 .paragraph-1 h3{
     color: white;
-    font-family: "courier New";
+    font-family: 'Lucida Sans Regular';
     padding-top: 25px;
+    font-size: 17px;
     
 }
 
 .paragraph-1 p {
     font-size: 12px;
     color: rgb(184, 170, 170);
-    font-family: 'courier New';
+    font-family: 'Lucida Sans Regular';
     padding-bottom: 19px;
     
 }
 .paragraph-2 h3 {
     color: white;
-    font-family: "courier New";
+    font-family: 'Lucida Sans Regular';
+    font-size: 17px;
 }
 .paragraph-2 p {
     color: rgb(184, 170, 170);
-    font-family: "courier New";
+    font-family: 'Lucida Sans Regular';
     font-size: 12px;
     padding-bottom: 24px;
 }
 .paragraph-3 h3 {
     color: white;
-    font-family: "courier New";
+    font-family: 'Lucida Sans Regular';
+    font-size: 17px;
 }
 .paragraph-3 p {
     color: rgb(184, 170, 170);
-    font-family: "courier New";
+    font-family: 'Lucida Sans Regular';
     font-size: 12px;
     
 } 
