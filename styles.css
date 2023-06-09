@@ -3,7 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.formulating-title {
+    background-color: rgba(65, 141, 65, 0.701);
+    text-align: center;
+    color: rgb(96, 69, 69);
+    font-family: 'Lucida Sans Regular';
+}
 .editing {
     color: #acac7c;
     padding-top: 20px;
