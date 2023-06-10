@@ -120,6 +120,7 @@
 .special-paragraph h2 {
     font-family: 'Lucida Sans Regular';
     padding-bottom: 20px;
+    color: rgb(100, 135, 165);
 }
 .displaying-content {
     display: flex;
