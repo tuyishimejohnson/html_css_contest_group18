@@ -88,5 +88,16 @@
 
 .joining {
     margin-left: 40px;
+}
+.nutrition-image img {
+    width: 1100px;
+    height: auto;
+    padding-left: 490px;
+    padding-bottom: 60px;
+    
 
+}
+.special-paragraph {
+    margin-top: 40px;
+    margin-left: 60px;
 }
