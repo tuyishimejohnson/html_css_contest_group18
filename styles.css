@@ -47,11 +47,13 @@
 
 
 }
-
+.paragraph-1 img {
+    width: 40px;
+    height: 40px;
+}
 .paragraph-1 h3{
     color: white;
     font-family: 'Lucida Sans Regular';
-    padding-top: 25px;
     font-size: 17px;
     
 }
@@ -63,6 +65,11 @@
     padding-bottom: 19px;
     
 }
+
+.paragraph-2 img {
+    width: 40px;
+    height: 40px;
+}
 .paragraph-2 h3 {
     color: white;
     font-family: 'Lucida Sans Regular';
@@ -73,6 +80,10 @@
     font-family: 'Lucida Sans Regular';
     font-size: 12px;
     padding-bottom: 24px;
+}
+.paragraph-3 img {
+    width: 40px;
+    height: 40px;
 }
 .paragraph-3 h3 {
     color: white;
@@ -99,7 +110,7 @@
 }
 .special-paragraph {
     margin-top: 50px;
-    margin-left: 60px;
+    margin-left: 50px;
 }
 .special-paragraph p {
     color: rgb(58, 47, 47);
@@ -108,6 +119,7 @@
 }
 .special-paragraph h2 {
     font-family: 'Lucida Sans Regular';
+    padding-bottom: 20px;
 }
 .displaying-content {
     display: flex;
